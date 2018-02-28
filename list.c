@@ -192,8 +192,6 @@ int main(){
 
     double start, end;
     int selected;
-
-    selected = getElementAt(bigList, 512);
     struct timeval  tv1, tv2;
 
     gettimeofday(&tv1, NULL);
